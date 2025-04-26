@@ -106,3 +106,17 @@ footer {
   font-size: 0.9rem;
   border-top: 1px solid #333;
 }
+.hero-poster {
+  padding: 20px 0;
+  background-color: #121212; /* dark arcade background */
+  text-align: center;
+}
+
+.poster-image {
+  max-width: 100%;
+  height: auto;
+  border: 3px solid #00FFFF;
+  border-radius: 12px;
+  box-shadow: 0 0 20px #00FFFF;
+  margin: 0 auto;
+}
